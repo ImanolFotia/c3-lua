@@ -1,0 +1,7 @@
+C3 bindings for the Lua programming language C interface.  
+This is a WIP, it needs more testing.
+
+Implementation completeness:
+* lua.h: 100%
+* lualib.h: 100%
+* lauxlib.h: 5%
