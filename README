@@ -4,4 +4,4 @@ This is a WIP, it needs more testing.
 Implementation completeness:
 * lua.h: 100%
 * lualib.h: 100%
-* lauxlib.h: 5%
+* lauxlib.h: 50%
