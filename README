@@ -1,4 +1,4 @@
-C3 bindings for the Lua programming language C interface.  
+C3 bindings for the Lua programming language C interface.
 This is a WIP, it needs more testing.
 
 Implementation completeness:
